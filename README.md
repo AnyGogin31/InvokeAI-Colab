@@ -1,5 +1,5 @@
 # InvokeAI-Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_GColab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_GColab.ipynb)
 
 # Tutorial
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/a2c1dd61-bef8-4bc4-bd5c-3fe0c3d88d0c)
