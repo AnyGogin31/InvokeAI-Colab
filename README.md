@@ -15,3 +15,5 @@ You can also change the configuration yourself, so after the installation step, 
 [InvokeAI repository](https://github.com/invoke-ai/InvokeAI)
 
 [Who took the screenshots](https://github.com/camenduru/InvokeAI-colab)
+
+<img src="https://count.getloli.com/get/@:1bdb3f0a-3cf2-49fb-9be0-8c5afe681770" width="0" height="0"/>
