@@ -1,0 +1,20 @@
+sd-1/controlnet/canny:
+   repo_id: lllyasviel/control_v11p_sd15_canny
+   recommended: True
+sd-1/controlnet/depth:
+   repo_id: lllyasviel/control_v11f1p_sd15_depth
+   recommended: True
+sd-1/controlnet/lineart:
+   repo_id: lllyasviel/control_v11p_sd15_lineart
+   recommended: True
+sd-1/controlnet/openpose:
+   repo_id: lllyasviel/control_v11p_sd15_openpose
+   recommended: True
+sd-1/embedding/EasyNegative:
+   path: https://civitai.com/api/download/models/9208?type=Model&format=SafeTensor&size=full&fp=fp16
+   recommended: True
+sd-1/ip_adapter/ip_adapter_sd15:
+   repo_id: InvokeAI/ip_adapter_sd15
+   recommended: True
+   requires:
+      - InvokeAI/ip_adapter_sd_image_encoder
