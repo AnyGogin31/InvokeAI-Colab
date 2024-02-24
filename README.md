@@ -1,4 +1,4 @@
-# InvokeAI-Colab
+# InvokeAI-Colab (>=v3.7.0)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_GColab.ipynb)
 
 # Tutorial
