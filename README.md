@@ -1,5 +1,8 @@
 # InvokeAI-Colab (>=v3.7.0)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_GColab.ipynb)
+| Link | Info |
+| :--- | :---: |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_GColab.ipynb) | origin version |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/Bypass_InvokeAI_GColab.ipynb) | bypass version |
 
 # Tutorial
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/a2c1dd61-bef8-4bc4-bd5c-3fe0c3d88d0c)
