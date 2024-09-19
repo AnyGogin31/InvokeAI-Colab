@@ -1,6 +1,7 @@
 # InvokeAI-Colab (>=v4.2.9)
 
 ### To launch the notebook, click on this icon: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_Colab.ipynb)
+_You can download and use FLUX models, but if you do not have enough memory on your Google Drive, do not call the "Upload to Google Drive" block. Some FLUX models weigh 33GB._
 
 ## Tutorial
 
