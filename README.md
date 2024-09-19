@@ -1,4 +1,4 @@
-# InvokeAI-Colab (>=v4.2.7)
+# InvokeAI-Colab (>=v4.2.9)
 
 ### To launch the notebook, click on this icon: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_Colab.ipynb)
 
