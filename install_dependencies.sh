@@ -12,9 +12,7 @@ pip install InvokeAI --use-pep517 --extra-index-url https://download.pytorch.org
 pip install "InvokeAI[xformers]" --use-pep517
 
 echo "Installing additional packages..."
-conda install glib=2.51.0 -y
-pip install --upgrade jupyter matplotlib
-pip install opencv-python-headless
+conda install -c conda-forge gcc=12.1.0 -y
 pip install pyngrok
 
 echo "Disconnecting from the environment..."
