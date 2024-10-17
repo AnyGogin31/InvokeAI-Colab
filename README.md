@@ -1,4 +1,4 @@
-# InvokeAI-Colab (>=v5.0.0)
+# InvokeAI-Colab (Tested on v5.2.0 and below)
 
 ### To launch the notebook, click on this icon: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_Colab.ipynb)
 _Use new FLUX models to generate images. If you have little memory on your Google Drive, you can exclude some directories so that they do not clog up your memory._
