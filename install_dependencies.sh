@@ -14,6 +14,7 @@ pip install "InvokeAI[xformers]" --use-pep517
 echo "Installing additional packages..."
 conda install -c conda-forge gcc=12.1.0 -y
 pip install pyngrok
+pip install matplotlib-inline
 
 echo "Disconnecting from the environment..."
 conda deactivate
