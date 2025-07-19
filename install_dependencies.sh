@@ -1,7 +1,9 @@
 #!/bin/bash
 
 echo "Creating an environment..."
-conda create -p $INVOKEAI_KERNEL_PREFIX python=3.10 -y
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+conda create -p $INVOKEAI_KERNEL_PREFIX python=3.12 -y
 
 echo "Activation of the environment..."
 eval "$(conda shell.bash hook)"

@@ -1,15 +1,9 @@
-# InvokeAI-Colab (Tested on v5.3.1 and below)
+# InvokeAI-Colab (Tested on v6.0.2)
 
 ### To launch the notebook, click on this icon: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_Colab.ipynb)
 
-## Important Notes
-
-- **Large Models**: Avoid uploading models directly to Google Drive if possible, as some can be very large and take up significant storage.
-- **Conda Environment**: Conda is used to create a safe, isolated environment, preventing potential conflicts with Google Colab's system and ensuring smooth execution.
-
 ## What's new?
 
-- **InvokeAI version**: Tested on v5.3.1 (compatible with v5.2.0 and below).
 - **Stable Diffusion 3.5 support**: Works smoothly with SD 3.5 as well.
 - **FLUX models**: Compatible with the latest FLUX models, ensuring high-quality image generation. _(Use smaller models, as larger ones may crash the tunnel.)_
 
