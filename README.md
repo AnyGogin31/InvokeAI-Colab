@@ -1,4 +1,4 @@
-# InvokeAI-Colab (Tested on v6.7.0)
+# InvokeAI-Colab (Tested on v6.8.0)
 
 ### To launch the notebook, click on this icon: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnyGogin31/InvokeAI-Colab/blob/main/InvokeAI_Colab.ipynb)
 
@@ -6,6 +6,7 @@
 
 - **Stable Diffusion 3.5 support**: Works smoothly with SD 3.5 as well.
 - **FLUX models**: Compatible with the latest FLUX models, ensuring high-quality image generation. _(Use smaller models, as larger ones may crash the tunnel.)_
+- **Gradio tunneling support**: Added compatibility with Gradio for opening tunnels, providing an alternative to ngrok for accessing the notebook interface.
 
 ## Tutorial
 
